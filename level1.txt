@@ -1,0 +1,164 @@
+1.: Introduce yourself / Tell me about yourself
+ **Thank you so much for giving me this apportunity to introduce myself.**
+
+1.My name is Chandan Kumar.
+
+2. I am born and brought up Bihar.. 
+
+3.I have done my B.Tech in Mechanical Engineering from West Bengal Kolkata in 2018.
+
+4.After that I started Teaching physics in Kolkata and in Bihar.
+
+5.To send money for my study, my father used to spend whole day in bank's queue.Now, it 
+happens in one click.This was my trigger point to join web-developement.
+ 
+6.Then applied in Masai school.
+ 
+7. Here in 3 months I learn html,css and javaScript and based to my peformace I got selected for
+Java back-end bactch. I learn Java and spring frame work in 2 months and a project on springboot.
+ 
+I am a quick learner and fast implementor, I can learn, unlearn and re-learn very quickly.
+
+----------------------------------------------------------------------------------------------- 
+8.I come from a very humble farmer family backgroud having 5 sisters and 2 brothers.
+I am the younger one. 
+
+9.In  my free time I create Hindi-story podcast which has 37k plays among 38 different countries.
+
+10. I do teach girls in village to empower womens. 
+
+
+11.I admire my father as a source of Inspiration for his wisdom and integrity in the 
+his farming profession.
+ 
+
+**   THATS IT FROM MY SIDE . THANK YOU SO MUCH!** 
+
+
+====================================================================
+2. What are your greatest strengths and your weaknesses?
+ 
+1.I come from a mechanical Engineering background and learning java back-end developement only
+in 2 months.I learn ,unlearn and re-learn things very quickly.
+
+2.I learn the whole carricullum sitting in my 20by20 room alone. So, yes! I 
+can handle pressure, maange time effectively and self motivated. 
+
+=================================================================================
+
+3. What are your career Objectives? / Where do you see yourself 5 years from now
+?
+phase 1-
+1. I will try to devote my whole energy to work with my team.
+2. And, learn how to intract with the customer as much I can!
+
+Middle phase-
+1. I will try to get good graps over the things I have already done.
+2.And, take more responsibility that comes in my hand.
+
+Last phase-
+1. I will try to take charge of the project.
+2. And , lead the team.
+
+================================================================================
+4. Why should we hire you ? / Why do you think you are eligible for this job?
+(different for different interviews)
+1.My passion - Why Back-end developement?-
+
+
+
+2.Skills( in job required)-
+
+
+3. Growth Mindset(Learn,unlearn and relearn)-
+
+=================================================================================
+5. What is your greatest personal / professional achievement so far ?
+
+L2 save STAR Technique-
+same done!
+
+==================================================================================
+6. Tell me about a team project you were involved. What was your role, and what
+was the outcome?
+
+Project-
+Application for Online covid-19 vaccination slot booking
+
+Objective -
+To make a REST API and perfom CRUD operation.
+
+My role-
+To handle the exception in the entire project in user friendly manner.
+
+Outcomes-
+After doing signup and login. User can see the vaccination center and
+opt for vaccination and get vaccine and accordingly we managed the inventory 
+in system.
+
+With http:// request body we were able to perform get,put ,post and delete 
+operation on the data we stored in the data base
+
+==============================================================
+
+7. What are your salary expectations?
+
+As I am a fresher, I want start my career and work for your company,
+but at the same time I have to maintain a -
+
+
+1.Healthy balace ,economically and socially accepted life style.
+
+So, I would request you to give me a descent salary according to 
+
+your company's norms and policies.
+
+=================================================================
+9. Why did you leave your previous job? 
+I stil teach.
+
+=========================================================================
+2. What  are your weaknesses?
+
+I always expect the same level of dedication with the people I work.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
